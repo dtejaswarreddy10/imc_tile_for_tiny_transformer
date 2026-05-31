@@ -1,0 +1,9 @@
+// golden_y.hex - reference INT8 outputs. Line i = row i of Y_q. Col j at bit [8*j +: 8].
+5d3ae0ddf835d2f23b032a1f0d073f88
+b50cf4e2f3270ce323d42a08df194436
+d6d21a422bd918ee24d31e292dfde44b
+d4df11010a0528553cc5b837191cde2c
+4b042b3f2d16edf125f139102de4f7d7
+603dc0fefd4fe3f1e6c84ef7ed5871ba
+1951e9d3073bf1f2e3ef37c6fe305721
+e6e380ee19171b2ddae5f63f011f180c
