@@ -1,0 +1,10 @@
+# Requantization parameters (frozen)
+s_x          = 1.2874405215e-02
+s_w          = 1.1034269971e-03
+s_y          = 2.6168396154e-03
+real_mult    = 5.4286728933e-03
+M            = 91078
+shift        = 24
+approx_mult  = 5.4286718369e-03
+err_lsb_max  = 1.433560
+err_lsb_mean = 0.539805
